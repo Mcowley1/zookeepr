@@ -171,6 +171,24 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "steve",
+      "species": "human",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "18"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
